@@ -41,4 +41,4 @@ A Power BI dashboard that provides a comprehensive view of the company's financi
 
 ## 📬 Contact
 
-Feel free to connect on [LinkedIn]( [https://www.linkedin.com](https://www.linkedin.com/in/rafael-narciso-875a40188/?locale=pt) ) or open an issue for questions and suggestions.
+Feel free to connect on [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rafael-narciso-875a40188/?locale=pt) or open an issue for questions and suggestions.
